@@ -1,4 +1,4 @@
-**Welcome to Starbucks**
+<h1 align='center'>Welcome to Starbucks</h1>
 <h2>Home Page</h2>
 <img src="https://github.com/TechNishant204/Starbucks-app/blob/master/public/Home.png" alt="home"/>
 <br/>
