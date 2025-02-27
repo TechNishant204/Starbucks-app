@@ -3,7 +3,7 @@
 <img src="https://github.com/TechNishant204/Starbucks-app/blob/master/public/Home.png" alt="home"/>
 <br/>
 <h2 align='center'>Cart Page</h2>
-<img src="https://github.com/TechNishant204/Starbucks-app/blob/master/public/Home.png" alt="home"/>
+<img src="https://github.com/TechNishant204/Starbucks-app/blob/master/public/Cart.png" alt="home"/>
 
 # React + Vite
 
