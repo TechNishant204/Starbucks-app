@@ -1,9 +1,9 @@
 **Welcome to Starbucks**
 <h2>Home Page</h2>
-![Screenshot 2025-02-27 203854](https://github.com/user-attachments/assets/bf4abdc3-2337-46b2-9bc9-464a298ad5e9)
+<img src="https://github.com/TechNishant204/Starbucks-app/blob/master/public/Home.png" alt="home"/>
 <br/>
 <h2>Cart Page</h2>
-![Screenshot 2025-02-27 203916](https://github.com/user-attachments/assets/039bdd4a-f97b-48bf-9ff5-35d9a6ef7407)
+<img src="https://github.com/TechNishant204/Starbucks-app/blob/master/public/Home.png" alt="home"/>
 
 # React + Vite
 
