@@ -1,8 +1,8 @@
 <h1 align='center'>Welcome to Starbucks</h1>
-<h2>Home Page</h2>
+<h2 align='center'>Home Page</h2>
 <img src="https://github.com/TechNishant204/Starbucks-app/blob/master/public/Home.png" alt="home"/>
 <br/>
-<h2>Cart Page</h2>
+<h2 align='center'>Cart Page</h2>
 <img src="https://github.com/TechNishant204/Starbucks-app/blob/master/public/Home.png" alt="home"/>
 
 # React + Vite
